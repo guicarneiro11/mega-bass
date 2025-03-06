@@ -75,6 +75,7 @@ I developed Mega Bass, a bass guitar emulator for Android that integrates an aud
    - Smooth kit switching
 
 ## Project Structure
+```plaintext
 com.oliveiralabs.megabass/
 ├── activities/
 │   ├── InstrumentActivity.java
@@ -92,3 +93,4 @@ com.oliveiralabs.megabass/
 │   └── MultitouchView.java
 └── native/
     └── instrument.cpp
+```
